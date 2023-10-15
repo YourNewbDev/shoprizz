@@ -1,0 +1,53 @@
+.bg-shop-nav {
+    background-color: #E94F37;
+    font-family: 'Roboto Flex', sans-serif;
+}
+
+.bg-footer {
+    background-color: #393e41;
+    font-family: 'Roboto Flex', sans-serif;
+}
+
+footer .footext {
+    color: #f6f7eb;
+}
+
+.footer-img {
+width: 31px;
+height: 31px;
+}
+
+.btn-shop {
+    background-color: #E94F37;
+    color: #f6f7eb;
+}
+
+.btn-shop-dark {
+    background-color: #393e41;
+    color: #f6f7eb;
+}
+
+.form-shop {
+    background-color: #E94F37;
+    color: #f6f7eb;
+    width: 540px;
+    height: 615px;
+    font-family: 'Roboto Flex', sans-serif;
+}
+
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Firefox */
+input[type=number] {
+  -moz-appearance: textfield;
+}
+
+.custom-link {
+    color: #f6f7eb;
+    text-decoration: none;
+}
